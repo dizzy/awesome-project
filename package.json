@@ -1,6 +1,8 @@
 {
-  "version": "16.0.1",
-  "pkgFiles": ["release.json"],
+  "version": "18.0.0",
+  "pkgFiles": [
+    "release.json"
+  ],
   "npm": {
     "private": true
   }
